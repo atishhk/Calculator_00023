@@ -4,7 +4,7 @@ import java.io.*;
 import java.lang.*;
 import java.lang.Math;
 import java.util.Scanner;
-public class BasicCalculator {
+public class calcullator0023 {
   
     public static void main(String[] args)
     {
